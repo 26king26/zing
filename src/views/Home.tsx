@@ -1,4 +1,4 @@
-import style from '../css/Home.module.less'
+import style from '@/css/Home.module.less'
 function Home() {
     return ( 
         <div className={style.home}>
